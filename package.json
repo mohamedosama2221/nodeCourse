@@ -1,0 +1,22 @@
+{
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedosama2221/nodeCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedosama2221/nodeCourse/issues"
+  },
+  "homepage": "https://github.com/mohamedosama2221/nodeCourse#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
