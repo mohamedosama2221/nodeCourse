@@ -1,7 +1,0 @@
-header is used to provide meta data about our response with res.writeHead()
-the res has ( method , header (option){html/text or application/json} , body {})
-the request has ( method , header (option) , body {request payload})
-
-//res.end() is important to be used at the end of the request to give the server the green light that the response has ben done and finished it end the communication
-
-//status code to give the browser a way to understand what happened to the request 200  means the request was successful
