@@ -1,0 +1,8 @@
+static assets are files that the server doesn't need to change it  example (css file , js files , images )
+
+api is a way for us to commuicate with our date to be more specific you cna consider it an http inteface to interact with our date and data is send in json format 
+
+//route paramter :id , it usually used to filter the results based on id for example if you have 10 products and want to have one of them then you send the id as a route paramter
+
+//query string param ? used after the question mark and usually used for search and filterting depending liek specific stuff like the category
+its used like that (/query?name=john&id=4)
